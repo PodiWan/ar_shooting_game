@@ -555,7 +555,7 @@ MonoBehaviour:
   <trackablesChanged>k__BackingField:
     m_PersistentCalls:
       m_Calls: []
-  m_PlanePrefab: {fileID: 0}
+  m_PlanePrefab: {fileID: 2795424677270098832, guid: de4d9426c49ecad41be387db094f4a43, type: 3}
   m_DetectionMode: 1
 --- !u!114 &663457189
 MonoBehaviour:
@@ -583,6 +583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45b6630766ac0a848bd604c10ad05adc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _camera: {fileID: 343167861}
 --- !u!114 &663457192
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -598,7 +599,7 @@ MonoBehaviour:
   <trackablesChanged>k__BackingField:
     m_PersistentCalls:
       m_Calls: []
-  m_RaycastPrefab: {fileID: 0}
+  m_RaycastPrefab: {fileID: 8515846284312363590, guid: 154d5b2ade2aaa94ea78dfbc72bb721c, type: 3}
 --- !u!114 &663457193
 MonoBehaviour:
   m_ObjectHideFlags: 0
