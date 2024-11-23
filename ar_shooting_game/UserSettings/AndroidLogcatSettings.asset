@@ -3,7 +3,7 @@
     "m_SelectedProcess": {
         "deviceId": "37260DLJH001PN",
         "name": "com.UnityTechnologies.Mobile3DTemplate",
-        "processId": 25128,
+        "processId": 27318,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -11,25 +11,31 @@
         {
             "deviceId": "37260DLJH001PN",
             "name": "com.UnityTechnologies.Mobile3DTemplate",
-            "processId": 20671,
-            "exited": false
-        },
-        {
-            "deviceId": "37260DLJH001PN",
-            "name": "com.UnityTechnologies.Mobile3DTemplate",
             "processId": 23708,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "37260DLJH001PN",
             "name": "com.UnityTechnologies.Mobile3DTemplate",
             "processId": 24389,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "37260DLJH001PN",
             "name": "com.UnityTechnologies.Mobile3DTemplate",
             "processId": 25128,
+            "exited": true
+        },
+        {
+            "deviceId": "37260DLJH001PN",
+            "name": "com.UnityTechnologies.Mobile3DTemplate",
+            "processId": 25793,
+            "exited": true
+        },
+        {
+            "deviceId": "37260DLJH001PN",
+            "name": "com.UnityTechnologies.Mobile3DTemplate",
+            "processId": 27318,
             "exited": false
         }
     ],
