@@ -28,3 +28,5 @@
 ## Resources
 
 - https://dev.to/whatminjacodes/plane-detection-with-arcore-and-unity-3245
+- https://learn.unity.com/tutorial/placing-and-manipulating-objects-in-ar#605103a5edbc2a6c32bf5663
+- https://learn.unity.com/tutorial/let-s-try-shooting-with-raycasts
